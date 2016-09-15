@@ -1,0 +1,90 @@
+17/05/2016 11:57:37 devpinoyLogger Properties file loaded. Starting Test Scripts
+17/05/2016 11:57:37 devpinoyLogger Loading Suite.xls
+17/05/2016 11:57:38 devpinoyLogger Iterating in current TestSuit at row :2--> Check items
+17/05/2016 11:57:38 devpinoyLogger LoginTest--->Y
+17/05/2016 11:57:38 devpinoyLogger Executing Test cases -- LoginTest
+17/05/2016 11:57:38 devpinoyLogger Iterations Number: 1
+17/05/2016 11:57:38 devpinoyLogger openBrowser
+17/05/2016 11:57:38 devpinoyLogger Opening the Browsers
+17/05/2016 11:57:38 devpinoyLogger Pass
+17/05/2016 11:57:38 devpinoyLogger navigate
+17/05/2016 11:57:38 devpinoyLogger Navigating to URL
+17/05/2016 11:57:38 devpinoyLogger Fail
+17/05/2016 11:57:38 devpinoyLogger clickLink
+17/05/2016 11:57:38 devpinoyLogger Clicking on the Link
+17/05/2016 11:57:38 devpinoyLogger Pass
+17/05/2016 11:57:38 devpinoyLogger assertText
+17/05/2016 11:57:38 devpinoyLogger Verifying Content
+17/05/2016 11:57:38 devpinoyLogger Pass
+17/05/2016 11:57:38 devpinoyLogger enterText
+17/05/2016 11:57:38 devpinoyLogger Entering the value
+17/05/2016 11:57:38 devpinoyLogger Pass
+17/05/2016 11:57:38 devpinoyLogger enterText
+17/05/2016 11:57:38 devpinoyLogger Entering the value
+17/05/2016 11:57:38 devpinoyLogger Pass
+17/05/2016 11:57:38 devpinoyLogger click
+17/05/2016 11:57:38 devpinoyLogger Clicking on any element
+17/05/2016 11:57:38 devpinoyLogger Pass
+17/05/2016 11:57:38 devpinoyLogger Iterations Number: 2
+17/05/2016 11:57:38 devpinoyLogger VerifyItems--->N
+17/05/2016 11:57:38 devpinoyLogger AddItemsCart--->N
+17/05/2016 11:57:38 devpinoyLogger Iterating in current TestSuit at row :3--> Search Suite
+17/05/2016 11:57:38 devpinoyLogger First3Results--->Y
+17/05/2016 11:57:38 devpinoyLogger Executing Test cases -- First3Results
+17/05/2016 11:57:38 devpinoyLogger Iterations Number: 1
+17/05/2016 11:57:38 devpinoyLogger openBrowser
+17/05/2016 11:57:38 devpinoyLogger Opening the Browsers
+17/05/2016 11:57:38 devpinoyLogger Pass
+17/05/2016 11:57:38 devpinoyLogger navigate
+17/05/2016 11:57:38 devpinoyLogger Navigating to URL
+17/05/2016 11:57:38 devpinoyLogger Fail
+17/05/2016 11:57:38 devpinoyLogger clickLink
+17/05/2016 11:57:38 devpinoyLogger Clicking on the Link
+17/05/2016 11:57:38 devpinoyLogger Pass
+17/05/2016 11:57:38 devpinoyLogger assertText
+17/05/2016 11:57:38 devpinoyLogger Verifying Content
+17/05/2016 11:57:38 devpinoyLogger Pass
+17/05/2016 11:57:38 devpinoyLogger enterText
+17/05/2016 11:57:38 devpinoyLogger Entering the value
+17/05/2016 11:57:38 devpinoyLogger Pass
+17/05/2016 11:57:38 devpinoyLogger enterText
+17/05/2016 11:57:38 devpinoyLogger Entering the value
+17/05/2016 11:57:38 devpinoyLogger Pass
+17/05/2016 11:57:38 devpinoyLogger click
+17/05/2016 11:57:38 devpinoyLogger Clicking on any element
+17/05/2016 11:57:38 devpinoyLogger Pass
+17/05/2016 11:57:38 devpinoyLogger Iterations Number: 2
+17/05/2016 11:57:38 devpinoyLogger Iterations Number: 3
+17/05/2016 11:57:38 devpinoyLogger Iterations Number: 4
+17/05/2016 11:57:38 devpinoyLogger Iterations Number: 5
+17/05/2016 11:57:38 devpinoyLogger Iterations Number: 6
+17/05/2016 11:57:38 devpinoyLogger LaptopdisplayTest--->Y
+17/05/2016 11:57:38 devpinoyLogger Executing Test cases -- LaptopdisplayTest
+17/05/2016 11:57:38 devpinoyLogger Iterations Number: 1
+17/05/2016 11:57:38 devpinoyLogger openBrowser
+17/05/2016 11:57:38 devpinoyLogger Opening the Browsers
+17/05/2016 11:57:38 devpinoyLogger Pass
+17/05/2016 11:57:38 devpinoyLogger navigate
+17/05/2016 11:57:38 devpinoyLogger Navigating to URL
+17/05/2016 11:57:38 devpinoyLogger Fail
+17/05/2016 11:57:38 devpinoyLogger clickLink
+17/05/2016 11:57:38 devpinoyLogger Clicking on the Link
+17/05/2016 11:57:38 devpinoyLogger Pass
+17/05/2016 11:57:38 devpinoyLogger assertText
+17/05/2016 11:57:38 devpinoyLogger Verifying Content
+17/05/2016 11:57:38 devpinoyLogger Pass
+17/05/2016 11:57:38 devpinoyLogger enterText
+17/05/2016 11:57:38 devpinoyLogger Entering the value
+17/05/2016 11:57:38 devpinoyLogger Pass
+17/05/2016 11:57:38 devpinoyLogger enterText
+17/05/2016 11:57:38 devpinoyLogger Entering the value
+17/05/2016 11:57:38 devpinoyLogger Pass
+17/05/2016 11:57:38 devpinoyLogger click
+17/05/2016 11:57:38 devpinoyLogger Clicking on any element
+17/05/2016 11:57:38 devpinoyLogger Pass
+17/05/2016 11:57:38 devpinoyLogger Iterations Number: 2
+17/05/2016 11:57:38 devpinoyLogger Iterations Number: 3
+17/05/2016 11:57:38 devpinoyLogger Iterations Number: 4
+17/05/2016 11:57:38 devpinoyLogger Iterations Number: 5
+17/05/2016 11:57:38 devpinoyLogger Iterations Number: 6
+17/05/2016 11:57:38 devpinoyLogger Iterating in current TestSuit at row :4--> C Suite
